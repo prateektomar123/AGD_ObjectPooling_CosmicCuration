@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace CosmicCuration.Bullets
 { 
-    public class BulletPool : MonoBehaviour
+    public class BulletPool
     {
         private BulletView bulletView;
         private BulletScriptableObject bulletScriptableObject;

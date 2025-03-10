@@ -10,10 +10,10 @@ namespace CosmicCuration.VFX
         public List<VFXData> vfxData;
     }
 
-    [Serializable]
-    public class VFXData
-    {
-        public VFXType type;
-        public VFXView prefab;
-    }
+    //[Serializable]
+    //public class VFXData
+    //{
+    //    public VFXType type;
+    //    public VFXView prefab;
+    //}
 }
